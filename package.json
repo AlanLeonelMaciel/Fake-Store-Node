@@ -1,0 +1,19 @@
+{
+  "name": "pre-entrega",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^22.16.0",
+    "node-fetch": "^3.3.2"
+  }
+}
